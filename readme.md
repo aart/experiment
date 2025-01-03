@@ -7,7 +7,7 @@ Sixth Line
 Seventh Line
 Eight line
 Nineth
-10
+10th
 11th line
 12th line
 13th line
